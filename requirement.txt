@@ -1,0 +1,13 @@
+streamlit
+langchain
+langgraph
+langchain-openai
+langchain-community
+langsmith
+python-dotenv
+pydantic
+pandas
+requests
+reportlab
+tavily-python
+langchain-huggingface
